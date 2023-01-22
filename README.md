@@ -48,7 +48,7 @@ Readme fájl mentése a main ágban is
 
 
 Repo létrehozása a GitHub-on
-Console ág mentése távoli repo-ba
+Main és Console ág mentése távoli repo-ba
 - git push https://github.com/PriskinZsuzsanna/GitVizsga0121.git main
 - git push https://github.com/PriskinZsuzsanna/GitVizsga0121.git console
 
