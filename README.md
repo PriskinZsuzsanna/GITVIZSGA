@@ -41,7 +41,7 @@ Readme fájl szerkesztése után
 - git add .
 - git commit -m "readme fájl szerkesztve"
 
-Readme, gitignore fájl mentése a main ágban is
+Readme fájl mentése a main ágban is
 - git checkout main
 - git add .
 - git commit -m "Readme mentve a main ágban"
